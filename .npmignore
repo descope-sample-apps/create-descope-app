@@ -1,0 +1,4 @@
+node_modules
+templates
+*.log
+dist
