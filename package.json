@@ -4,7 +4,7 @@
   "description": "Descope CLI Tool",
   "main": "bin/create-descope-app.js",
   "bin": {
-    "create-descope-app": "./bin/create-descope-app.js"
+    "create-descope-app": "bin/create-descope-app.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,7 +14,11 @@
     "bin",
     "lib"
   ],
-  "keywords": ["descope", "authentication", "cli"],
+  "keywords": [
+    "descope",
+    "authentication",
+    "cli"
+  ],
   "author": "Descope",
   "license": "MIT",
   "dependencies": {
