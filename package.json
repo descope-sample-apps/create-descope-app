@@ -1,6 +1,6 @@
 {
   "name": "create-descope-app",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Descope CLI Tool",
   "main": "bin/create-descope-app.js",
   "bin": {
