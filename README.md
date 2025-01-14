@@ -25,9 +25,9 @@ You can also pass command line arguments to set up a new project non-interactive
 Usage: create-descope-app [project-directory] [options]
 
 Options:
--  -V, --version                        output the version number
-- -t, --template           Select a template (next-js-sample-app, etc)
-- -h, --help                           output usage information
+-V, --version                        output the version number
+-t, --template           Select a template (next-js-sample-app, etc)
+-h, --help                           output usage information
 ```
 
 ## Why use Create Descope App?
