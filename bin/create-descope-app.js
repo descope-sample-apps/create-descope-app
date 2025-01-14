@@ -3,7 +3,9 @@
 import { createApp } from '../lib/create-app.js';
 import { Command } from 'commander';
 import { DEFAULT_PROJECT_NAME } from '../lib/create-app.js';
-import packageJson from './package.json'
+import { createRequire } from 'module';
+const require = createRequire(import.meta.url);
+const packageJson = require('../package.json');
 
 const program = new Command(packageJson.name);
 
