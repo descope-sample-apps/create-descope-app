@@ -1,6 +1,6 @@
 # Create Descope App
 
-The easiest way to get started with Descope is by using `create-descope-app`. This CLI tool enables you to quickly start building a new Descope application, with everything set up for you. You can create a new app using the default Descope template, or by using one of the official examples. To get started, use the following command:
+The easiest way to get started with Descope is by using `create-descope-app`. This CLI tool enables you to quickly start building a new Descope application, with everything set up for you. You can create a new app using one of the official Descopeexamples. To get started, use the following command:
 
 ## Interactive
 You can create a new project interactively by running:
