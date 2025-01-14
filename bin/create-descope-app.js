@@ -2,7 +2,7 @@
 
 import { createApp } from '../lib/create-app.js';
 import { Command } from 'commander';
-import { DEFAULT_PROJECT_NAME, DEFAULT_TEMPLATE } from '../lib/create-app.js';
+import { DEFAULT_PROJECT_NAME } from '../lib/create-app.js';
 
 const program = new Command();
 
