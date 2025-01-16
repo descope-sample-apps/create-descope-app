@@ -30,6 +30,10 @@ Options:
 -h, --help                           output usage information
 ```
 
+__Note:__ The `template` argument is optional and 
+simply allows you to select an option from the
+[official examples](https://github.com/descope-sample-apps).
+
 ## Why use Create Descope App?
 
 `create-descope-app` allows you to create a new Descope application in seconds. It is officially maintained by Descope, and includes a number of benefits:
